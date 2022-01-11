@@ -1,0 +1,15 @@
+C:\Dev\Fundamentos C#\moedas\bin\Debug\net6.0\Moedas.exe
+C:\Dev\Fundamentos C#\moedas\bin\Debug\net6.0\Moedas.deps.json
+C:\Dev\Fundamentos C#\moedas\bin\Debug\net6.0\Moedas.runtimeconfig.json
+C:\Dev\Fundamentos C#\moedas\bin\Debug\net6.0\Moedas.dll
+C:\Dev\Fundamentos C#\moedas\bin\Debug\net6.0\ref\Moedas.dll
+C:\Dev\Fundamentos C#\moedas\bin\Debug\net6.0\Moedas.pdb
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\Moedas.csproj.AssemblyReference.cache
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\Moedas.AssemblyInfoInputs.cache
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\Moedas.AssemblyInfo.cs
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\Moedas.dll
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\ref\Moedas.dll
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\Moedas.pdb
+C:\Dev\Fundamentos C#\moedas\obj\Debug\net6.0\Moedas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Dev\Fundamentos C#\datas\bin\Debug\net6.0\datas.exe
+C:\Dev\Fundamentos C#\datas\bin\Debug\net6.0\datas.deps.json
+C:\Dev\Fundamentos C#\datas\bin\Debug\net6.0\datas.runtimeconfig.json
+C:\Dev\Fundamentos C#\datas\bin\Debug\net6.0\datas.dll
+C:\Dev\Fundamentos C#\datas\bin\Debug\net6.0\ref\datas.dll
+C:\Dev\Fundamentos C#\datas\bin\Debug\net6.0\datas.pdb
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\datas.csproj.AssemblyReference.cache
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\datas.AssemblyInfoInputs.cache
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\datas.AssemblyInfo.cs
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\datas.csproj.CoreCompileInputs.cache
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\datas.dll
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\ref\datas.dll
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\datas.pdb
+C:\Dev\Fundamentos C#\datas\obj\Debug\net6.0\datas.genruntimeconfig.cache

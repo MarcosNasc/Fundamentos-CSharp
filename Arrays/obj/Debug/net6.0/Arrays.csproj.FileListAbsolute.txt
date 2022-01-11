@@ -1,0 +1,15 @@
+C:\Dev\Fundamentos C#\arrays\bin\Debug\net6.0\Arrays.exe
+C:\Dev\Fundamentos C#\arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Dev\Fundamentos C#\arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Dev\Fundamentos C#\arrays\bin\Debug\net6.0\Arrays.dll
+C:\Dev\Fundamentos C#\arrays\bin\Debug\net6.0\ref\Arrays.dll
+C:\Dev\Fundamentos C#\arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\Arrays.dll
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\ref\Arrays.dll
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Dev\Fundamentos C#\arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache

@@ -1,0 +1,48 @@
+C:\dev\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+C:\dev\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+C:\dev\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\dev\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\dev\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+C:\dev\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\dev\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+C:\dev\EditorHtml\obj\Debug\net5.0\EditorHtml.csprojAssemblyReference.cache
+C:\dev\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\dev\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\dev\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\dev\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+C:\dev\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\dev\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+C:\dev\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache
+C:\Balta\Fundamentos C#\EditorHTML\bin\Debug\net5.0\EditorHtml.exe
+C:\Balta\Fundamentos C#\EditorHTML\bin\Debug\net5.0\EditorHtml.deps.json
+C:\Balta\Fundamentos C#\EditorHTML\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\Balta\Fundamentos C#\EditorHTML\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\Balta\Fundamentos C#\EditorHTML\bin\Debug\net5.0\EditorHtml.dll
+C:\Balta\Fundamentos C#\EditorHTML\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\Balta\Fundamentos C#\EditorHTML\bin\Debug\net5.0\EditorHtml.pdb
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\EditorHtml.csprojAssemblyReference.cache
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\EditorHtml.dll
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\EditorHtml.pdb
+C:\Balta\Fundamentos C#\EditorHTML\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache
+C:\Dev\Fundamentos C#\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+C:\Dev\Fundamentos C#\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+C:\Dev\Fundamentos C#\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\Dev\Fundamentos C#\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\Dev\Fundamentos C#\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+C:\Dev\Fundamentos C#\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\Dev\Fundamentos C#\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.AssemblyReference.cache
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+C:\Dev\Fundamentos C#\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache

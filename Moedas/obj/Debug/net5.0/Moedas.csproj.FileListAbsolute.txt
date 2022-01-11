@@ -1,0 +1,16 @@
+C:\dev\moedas\bin\Debug\net5.0\Moedas.exe
+C:\dev\moedas\bin\Debug\net5.0\Moedas.deps.json
+C:\dev\moedas\bin\Debug\net5.0\Moedas.runtimeconfig.json
+C:\dev\moedas\bin\Debug\net5.0\Moedas.runtimeconfig.dev.json
+C:\dev\moedas\bin\Debug\net5.0\Moedas.dll
+C:\dev\moedas\bin\Debug\net5.0\ref\Moedas.dll
+C:\dev\moedas\bin\Debug\net5.0\Moedas.pdb
+C:\dev\moedas\obj\Debug\net5.0\Moedas.csprojAssemblyReference.cache
+C:\dev\moedas\obj\Debug\net5.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\moedas\obj\Debug\net5.0\Moedas.AssemblyInfoInputs.cache
+C:\dev\moedas\obj\Debug\net5.0\Moedas.AssemblyInfo.cs
+C:\dev\moedas\obj\Debug\net5.0\Moedas.csproj.CoreCompileInputs.cache
+C:\dev\moedas\obj\Debug\net5.0\Moedas.dll
+C:\dev\moedas\obj\Debug\net5.0\ref\Moedas.dll
+C:\dev\moedas\obj\Debug\net5.0\Moedas.pdb
+C:\dev\moedas\obj\Debug\net5.0\Moedas.genruntimeconfig.cache
